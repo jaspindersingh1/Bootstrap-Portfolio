@@ -89,28 +89,19 @@ li a:hover {
     float: left;
 }
 
-
-.p1 {
+p {
     font-size: 16px;
     margin: 20px;
+}
+
+.p1 {
     padding: 20px;
-    height: 200px;
 }
 
 .p2 {
     clear: both;
-    overflow: auto;
-    font-size: 16px;
 }
 
-.p3 {
-    font-size: 16px;
-}
-
-.p2,
-.p3 {
-    margin: 20px;
-}
 
 .footer {
     clear: both;
@@ -124,6 +115,3 @@ li a:hover {
 }
 
 
-@media screen and (max-width: 980px) {
-    
-}

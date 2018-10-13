@@ -107,15 +107,6 @@ li a:hover {
     width: 160px;
 }
 
-.text-block2 {
-    position: absolute;
-    bottom: 20px;
-    background-color: #4aaaa5;
-    color: white;
-    padding-left: 20px;
-    padding-right: 20px;
-    width: 160px;
-}
 
 .grid2 {
     display: inline-grid;
@@ -124,25 +115,7 @@ li a:hover {
     padding: 10px;
 }
 
-.text-block3 {
-    position: absolute;
-    bottom: 20px;
-    background-color: #4aaaa5;
-    color: white;
-    padding-left: 20px;
-    padding-right: 20px;
-    width: 160px;
-}
 
-.text-block4 {
-    position: absolute;
-    bottom: 20px;
-    background-color: #4aaaa5;
-    color: white;
-    padding-left: 20px;
-    padding-right: 20px;
-    width: 160px;
-}
 
 .grid3 {
     display: block;
@@ -151,15 +124,7 @@ li a:hover {
     padding: 10px;
 }
 
-.text-block5 {
-    position: absolute;
-    bottom: 20px;
-    background-color: #4aaaa5;
-    color: white;
-    padding-left: 20px;
-    padding-right: 20px;
-    width: 160px;
-}
+
 
 .footer {
     clear: both;
